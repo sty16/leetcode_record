@@ -31,20 +31,16 @@ leetcode 87 扰乱字符串
 
 leetcode 516 最长回文子序列
 
-<<<<<<< HEAD
-=======
 leetcode 877 石子游戏
 
->>>>>>> 7d352068c4ada2782bfcf5c0303824c4a9a8b429
 #### 前缀和
 
 leetcode 437 路径总和III  
 
-<<<<<<< HEAD
-=======
 leetcode 139 单词拆分 前缀树 与 动态规划。
 
->>>>>>> 7d352068c4ada2782bfcf5c0303824c4a9a8b429
+leetcode 5602 将x减到0的最小操作数
+
  #### 树状数组
 
 leetcode 315  计算右侧小于当前元素的个数 
@@ -97,12 +93,56 @@ leetcode 149 直线上最多的点数
 
 记录完全相同的特殊点
 
-<<<<<<< HEAD
 ### 并查集 && 拓扑排序
 
 leetcode 1632
 
-=======
->>>>>>> 7d352068c4ada2782bfcf5c0303824c4a9a8b429
 ### NPC问题
 
+### 单调栈 
+
+接雨水
+
+leetcode 316 去除重复字母。
+
+leetcode 402 移掉K位置数字
+
+leetcode 255 验证前序遍历二叉搜索树。
+
+leetcode 132 模式
+
+### 桶排序
+
+leetcode 164 最大间距
+
+leetcode 220 存在重复元素。
+
+### 正方形
+
+leetcode 221 最大正方形
+
+### 前缀和
+
+通常用来解决区间问题。
+
+解决区间问题常用手段
+
+leetcode 525 连续数组
+
+leetcode  23 连续的子数组和
+
+leetcode 467 环绕字符串
+
+### 二分法
+
+leetcode 475
+
+### 区间个数问题
+
+leetcode 992 K个不同整数的子数组
+
+leetcode 904 水果成篮
+
+leetcode 795 区间子数组的个数。
+
+区间 子数组问题 可以进行转化 exactK = atMost(K) - atMost(K - 1)
